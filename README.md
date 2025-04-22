@@ -39,5 +39,3 @@ This project is licensed under the MIT License.
 
 ## Contact
 For questions or suggestions, reach out via [rushipatil1324@gmail.com].
-
-This README provides a clear and structured overview of your project. You can customize it further based on specific details. Let me know if you need modifications! 🚀
